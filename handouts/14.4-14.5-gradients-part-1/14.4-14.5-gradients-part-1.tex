@@ -1,0 +1,84 @@
+\documentclass[12pt,reqno]{amsart}
+\usepackage{/Users/johnmyers/GoogleDrive/tex/handout,/Users/johnmyers/GoogleDrive/tex/customcommands,polynom}
+\usepackage{caption}
+
+\hdr{MAT 240}{\S14.4 and \S14.5 Gradients, part 1}
+
+\begin{document}
+
+\textbf{Suggested problems in \S14.4:} 1-45 odd, 49-53 odd, 57, 59, 69-73 odd
+
+\medskip
+\hrule
+
+\bigskip
+
+\prob Compute the gradient of the function
+	\[f(x,y) = y \ln{(x)} +xy^2
+	\]
+at the point $(1,2)$.
+
+\vfill
+\prob Compute the gradient of the function
+	\[f(x,y)=\ln{(x^2 +xy)}
+	\]
+at the point $(4,1)$.
+
+\vfill
+\prob The surface $z=f(x,y)$ is shown below. Suppose that 
+	\[\vec{u} = \frac{1}{\sqrt{2}}(\vec{i}+\vec{j}) \quad \tn{and} \quad \vec{v} = \frac{1}{\sqrt{2}}(\vec{i}-\vec{j})?
+	\]
+Are the following directional derivatives positive, negative, or zero?
+
+\medskip
+\begin{minipage}{0.5\textwidth}
+\includegraphics[scale=1.25]{pic1.pdf}
+\end{minipage}%
+%
+\begin{minipage}{0.5\textwidth}
+\begin{henumerate}{2}
+\item $f_{\vec{u}}(2,5)$
+\item $f_{\vec{-u}}(2,5)$\vspace{0.05in}
+\item $f_{\vec{v}}(2,5)$
+\item $f_{\vec{-v}}(2,5)$\vspace{0.05in}
+\item $f_{\vec{i}}(2,5)$
+\item $f_{\vec{j}}(2,5)$\vspace{0.05in}
+\item $f_{\vec{u}}(0,5)$
+\item $f_{\vec{-u}}(0,5)$\vspace{0.05in}
+\item $f_{\vec{v}}(0,5)$
+\item $f_{\vec{-v}}(0,5)$\vspace{0.05in}
+\item $f_{\vec{i}}(0,5)$
+\item $f_{\vec{j}}(0,5)$
+\end{henumerate}
+\end{minipage}%
+
+\vfill
+\newpage
+\prob Use the contour diagram of $f$ shown below to determine whether the directional derivative at the indicated point in the indicated direction is positive, negative, or zero.
+
+\medskip
+\begin{minipage}{0.5\textwidth}
+\begin{center}
+\includegraphics[scale=1.5]{1.pdf}
+\end{center}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+\begin{enumerate}
+\item At $(-2,2)$, in the direction $\vec{i}$\medskip
+\item At $(0,-2)$, in the direction $\vec{j}$\medskip
+\item At $(0,-2)$, in the direction $\vec{i}+2\vec{j}$\medskip
+\item At $(0,-2)$, in the direction $\vec{i}-2\vec{j}$\medskip
+\item At $(-1,1)$, in the direction $\vec{i}+\vec{j}$\medskip
+\item At $(-1,1)$, in the direction $-\vec{i}+\vec{j}$
+\end{enumerate}
+\end{minipage}
+
+\medskip
+\prob If $f(x,y) = xy+y^3$ and $\vec{u} = \frac{1}{5}(3\vec{i}-4\vec{j}) $, find $f_{\vec{u}}(1,2)$.
+
+\vfill
+\prob If $f(x,y) = 3x^2 - 2y^2$, find the instantaneous rate of change of $f$ at $(-3/4,0)$ in the direction from $(-3/4,0)$ to $(0,1)$.
+\vfill
+
+
+\end{document}

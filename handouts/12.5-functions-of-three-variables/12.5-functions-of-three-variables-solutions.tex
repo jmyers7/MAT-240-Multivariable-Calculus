@@ -1,0 +1,109 @@
+\documentclass[12pt,reqno]{amsart}
+\usepackage{/Users/johnmyers/GoogleDrive/tex/handout,/Users/johnmyers/GoogleDrive/tex/customcommands,polynom}
+\usepackage{caption}
+
+\hdr{MAT 240}{9/4/19, Functions of three variables}
+
+\begin{document}
+
+\textbf{Suggested problems in Hughes-Hallett, \S12.5:} 1-17 odd, 23-29 odd, 35, 37, 41, 43  \medskip
+
+\textbf{Suggested problems in Stewart (8th edition), \S14.1:} 67, 69
+
+\bigskip
+\hrule
+
+\bigskip
+
+\prob The temperature, in $^\circ$C, at a point $(x,y,z)$ is given by $T(x,y,z) = x^2+y^2+z^2$. What do the level surfaces of $T$ look like and what do they mean in terms of temperature?
+
+\bigskip
+\textcolor{red}{The level surfaces are concentric spheres, centered at the origin. Points along a particular level surface all have the same temperature.}
+\bigskip
+
+\prob What do the level surfaces of the following functions look like?
+
+\medskip
+\begin{enumerate}
+\item $f(x,y,z) = x^2+y^2$
+
+\bigskip
+\textcolor{red}{The level surfaces are of the form $x^2+y^2=c$, where $c$ is a constant. If $c<0$, the level surface is empty. If $c=0$, the level surface consists of the $z$-axis. If $c>0$, the level surface is a cylinder wrapping around the $z$-axis of radius $\sqrt{c}$.}
+\bigskip
+
+\item $g(x,y,z) = z-y$
+
+\bigskip
+\textcolor{red}{The level surfaces are of the form $z-y=c$, where $c$ is a constant. Rearranging gives
+	\[z = y + c.
+	\]
+This is a linear function, written in slopes-intercept form. The slopes in the $x$-direction is $0$, the slope in the $y$-direction is $1$, and the $z$-intercept is $c$.}
+\bigskip
+\end{enumerate}
+
+\prob A company makes three sizes of cardboard boxes: small, medium, and large. It costs \$2.50 to make a small box, \$4.00 for a medium box, and \$4.50 for a large box. The fixed costs to make any number of boxes is \$8000.
+
+\medskip
+\begin{enumerate}
+\item Express the cost, $C$, of making $x$ small boxes, $y$ medium boxes, and $z$ large boxes as a function $C = f(x,y,z)$.
+
+\bigskip
+\textcolor{red}{$C = f(x,y,z) = 2.5x + 4y + 4.5z + 8000$}
+\bigskip
+
+\item Find $f(3000,5000,4000)$ and interpret it.
+
+\bigskip
+\textcolor{red}{$f(3000,5000,4000) = 53500$. This means its cost \$53,500 to manufacture 3000 small boxes, 5000 medium boxes, and 4000 large boxes.}
+\bigskip
+
+\end{enumerate}
+
+\newpage
+\begin{center}
+\includegraphics[scale=1]{1.pdf}
+\end{center}
+
+\bigskip
+\prob Use the figures above to identify the surfaces defined by the following equations.
+
+\medskip
+\begin{henumerate}{2}
+\item $z-9x^2-y^2=0$ \textcolor{red}{elliptic paraboloid}
+\item $z + x^2-y^2=0$ \textcolor{red}{hyperbolic paraboloid}
+\item $-x^2-4y^2+1=0$ \textcolor{red}{cylindrical surface}
+\item $y-2x^2=0$ \textcolor{red}{parabolic cylinder}
+\end{henumerate}
+
+\prob Describe the level surfaces of
+	\[f(x,y,z) = \frac{x^2}{4} + z^2
+	\]
+in words.
+
+\bigskip
+\textcolor{red}{The level surfaces are of the form $\frac{x^2}{4} + z^2 = c$. If $c<0$, the level surface is empty. If $c = 0$, the level surface is the $y$-axis. If $c>0$, the level surface is a cylindrical surface wrapping around the $y$-axis.}
+\bigskip
+
+\prob Let
+	\[f(x,y,z) = x^2-y^2+z^2.
+	\]
+Describe the level surface $f(x,y,z) = 1$ in words.
+
+\bigskip
+\textcolor{red}{The level surface is a hyperboloid of one sheet, wrapping around the $y$-axis.}
+\bigskip
+
+\newpage
+\prob Find a function $g(x,y,z)$ whose level surface with $g=0$ is the graph of $f(x,y) = x+2y$. Now find a different function $h(x,y,z)$ whose level surface with $h=1$ is the graph of $f(x,y) = x+2y$.
+
+\bigskip
+\textcolor{red}{$g(x,y,z) = x+2y-z$ and $h(x,y,z) = x+2y-z+1$}
+\bigskip
+
+\prob Define $g(x,y,z) = x^2+y^2+z^2$. Can the level surface defined by $g=10$ be written as the graph of a single function $f(x,y)$?
+
+\bigskip
+\textcolor{red}{No. For if this were true, we would need to have $z=f(x,y)$. But solving $x^2+y^2+z^2=10$ for $z$ gives \textit{two} values of $z$ when we take the square root. Thus a single function $f$ does not exist.}
+
+
+\end{document}

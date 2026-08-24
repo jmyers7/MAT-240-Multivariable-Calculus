@@ -1,0 +1,70 @@
+\documentclass[12pt,reqno]{amsart}
+\usepackage{/Users/johnmyers/GoogleDrive/tex/handout,/Users/johnmyers/GoogleDrive/tex/customcommands,polynom}
+\usepackage{caption}
+
+\hdr{MAT 240}{\S\S19.3, 19.4 The Divergence Theorem}
+
+\begin{document}
+
+\textbf{Suggested problems \S19.3:} 3-9 odd \medskip
+
+\textbf{Suggested problems \S19.4:} 1-19 odd
+
+\bigskip
+\hrule
+
+\bigskip
+
+\prob Using the diagrams below, compute the vector area element $d\vec{A}$ for cylindrical and spherical surfaces. Assume the cylinder and sphere have radius $R$.
+
+\bigskip
+\begin{minipage}{0.5\textwidth}
+\begin{center}
+\includegraphics[scale=1.25]{pic7.pdf}
+\end{center}
+\end{minipage}
+\begin{minipage}{0.5\textwidth}
+\begin{center}
+\includegraphics[scale=1.25]{pic8.pdf}
+\end{center}
+\end{minipage}
+
+\vspace{1in}
+\prob Compute the flux of
+	\[\vec{F}(x,y,z) = \ang{x ,y, 3xz^2}
+	\]
+through the surface $S$ of a cylinder of radius 10, centered on the $z$-axis, oriented outward, with $0 \leq z \leq 5$.
+
+\newpage
+\prob Compute the flux of
+	\[\vec{F}(x,y,z) = \ang{0,0,z}
+	\]
+through the sphere $S$ of radius 5, centered at the origin, and oriented outward.
+
+\vfill
+\prob Compute the divergence $\nabla \cdot \vec{F}$ for the following vector fields.
+
+\medskip
+\begin{enumerate}
+\item $\vec{F}(x,y,z) = \ang{-x+y,y+z,-z + x}$\vfill
+\item $\vec{F}(x,y,z) = 3x^2 \vec{i} - \sin{(xz)} \vec{j}+3x^2yz^2\vec{k}$
+\end{enumerate}
+
+\vfill
+\newpage
+\prob Compute the flux of the vector field
+	\[\vec{F}(x,y,z) = (x^2+y^2) \vec{i} + (y^2 + z^2) \vec{j} + (x^2+z^2) \vec{k}
+	\]
+through the surface $S$ of the cube below (oriented outward).
+
+\begin{flushright}
+\includegraphics[scale=1.5]{pic1.pdf}
+\end{flushright}
+
+\vfill
+\prob Compute the flux of $\vec{F}(x,y,z) = \ang{xy,yz,xz}$ through the sphere $S$ of radius $1$ centered at the origin (oriented outward).
+\vfill
+
+\newpage
+\prob Let $S$ be an outward-oriented closed cylinder of height $2$ with its base a disk of radius $2$ in the $xy$-plane centered at the origin. Compute the flux of $\vec{F}(x,y,z) = \ang{0,y,0}$ through $S$ in two different ways.
+\end{document}
