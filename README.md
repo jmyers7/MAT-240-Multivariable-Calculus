@@ -12,7 +12,7 @@
 
 Class Number/Date | Topics | Suggested problems | Other information
 | :-: | :- | :- | :- |
-| Class 7: <br> Thu 09-03 | | | Quiz 2 on Secs. 12.3, 12.4, 12.5
+| Class 7: <br> Thu 09-03 | Finish 12.6 | 12.6: 7, 9, 13, 15, 19 | Quiz 2 on Secs. 12.3, 12.4, 12.5
 | Class 6: <br> Wed 09-02 | Finish 12.5 <br> 12.6 Limits and continuity | 12.6: 7, 9, 13, 15, 19
 | Class 5: <br> Mon 08-31 | 12.5 Functions of three variables | 12.5: 1-17 odd, 23-29 odd, 35, 37, 41, 43
 | Class 4: <br> Fri 08-28 | Finish 12.3 <br> 12.4 Linear functions | 12.4: 1-13 odd
