@@ -6,12 +6,14 @@
 
 **Office**: MCC 175
 
-**Office hours**: TBA
+**Office hours**: 12:30-1:30 MWF
 
 ## Schedule
 
 Class Number/Date | Topics | Suggested problems | Other information
 | :-: | :- | :- | :- |
+| Class 10: <br> Thu 09-10 | | | Quiz 3 on Secs. 12.6 and 13.1
+| Class 9: <br> Wed 09-09 | Finish 13.1 <br> 13.3 The dot product | 13.3: 11-35 odd
 | Class 8: <br> Fri 09-04 | 13.1 Displacement vectors | 13.1: 1-31 odd
 | Class 7: <br> Thu 09-03 | Finish 12.6 | 12.6: 7, 9, 13, 15, 19 | Quiz 2 on Secs. 12.3, 12.4, 12.5
 | Class 6: <br> Wed 09-02 | Finish 12.5 <br> 12.6 Limits and continuity | 12.6: 7, 9, 13, 15, 19
