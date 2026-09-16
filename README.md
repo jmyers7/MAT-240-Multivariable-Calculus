@@ -12,6 +12,8 @@
 
 Class Number/Date | Topics | Suggested problems | Other information
 | :-: | :- | :- | :- |
+| Class 14: <br> Thu 09-17 | | | Quiz 4 on Secs. 13.3, 13.4, 14.1
+| Class 13: <br> Wed 09-16 | 14.2 Computing partial derivatives | 14.2: 1-39 odd
 | Class 12: <br> Mon 09-14 | 14.1 The partial derivative | 14.1: 1-13 odd, 17-29 odd
 | Class 11: <br> Fri 09-11 | Finish 13.4 | ↓
 | Class 10: <br> Thu 09-10 | Finish 13.3 <br> 13.4 The cross product | 13.4: 1-9 odd, 15, 21-33 odd | Quiz 3 on Secs. 12.6 and 13.1
