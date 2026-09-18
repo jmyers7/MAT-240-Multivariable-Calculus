@@ -12,6 +12,7 @@
 
 Class Number/Date | Topics | Suggested problems | Other information
 | :-: | :- | :- | :- |
+| Class 15: <br> Fri 09-19 | Finish 14.3 <br> 14.4 Gradients, part 1 | 14.4: 1-45 odd, 49-53 odd, 57, 59, 69-73 odd
 | Class 14: <br> Thu 09-17 | 14.2 Computing partial derivatives, part 2 <br> 14.3 Local linearity and differentials | 14.2: 1-39 odd <br> 14.3: 1-13 odd, 17, 21-25 odd | Quiz 4 on Secs. 13.3, 13.4, 14.1
 | Class 13: <br> Wed 09-16 | 14.2 Computing partial derivatives, part 1 | 14.2: 1-39 odd
 | Class 12: <br> Mon 09-14 | 14.1 The partial derivative | 14.1: 1-13 odd, 17-29 odd
