@@ -12,7 +12,7 @@
 
 Class Number/Date | Topics | Suggested problems | Other information
 | :-: | :- | :- | :- |
-| Class 18: <br> Thu 09-24 | | | Quiz 5 on Secs. 14.2, 14.3, and 14.4 (part 1)
+| Class 18: <br> Thu 09-24 | ↓ | ↓ | Quiz 5 on Secs. 14.2, 14.3, and 14.4 (part 1)
 | Class 17: <br> Wed 09-23 | Finish 14.4, part 1 <br> 14.5 Gradients, part 2 | 14.5: 1-47 odd
 | Class 16: <br> Mon 09-21 | 14.4 Gradients, part 1 | 14.4: 1-45 odd, 49-53 odd, 57, 59, 69-73 odd | Exam 1 on Thu 10/1
 | Class 15: <br> Fri 09-19 | Finish 14.3 | ↓
