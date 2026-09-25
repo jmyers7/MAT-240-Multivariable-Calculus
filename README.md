@@ -12,6 +12,7 @@
 
 Class Number/Date | Topics | Suggested problems | Other information
 | :-: | :- | :- | :- |
+| Class 19: <br> Fri 09-25 | Finish 14.5, part 2 <br> 14.6 The chain rule | 14.5: 1-47 odd <br> 14.6: 1-15 odd
 | Class 18: <br> Thu 09-24 | ↓ | ↓ | Quiz 5 on Secs. 14.2, 14.3, and 14.4 (part 1)
 | Class 17: <br> Wed 09-23 | Finish 14.4, part 1 <br> 14.5 Gradients, part 2 | 14.5: 1-47 odd
 | Class 16: <br> Mon 09-21 | 14.4 Gradients, part 1 | 14.4: 1-45 odd, 49-53 odd, 57, 59, 69-73 odd | Exam 1 on Thu 10/1
