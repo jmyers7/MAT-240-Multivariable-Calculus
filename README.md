@@ -13,7 +13,7 @@
 Class Number/Date | Topics | Suggested problems | Other information
 | :-: | :- | :- | :- |
 | Class 22: <br> Thu 10-01 | | | Exam 1 on Secs. 12.1 to 14.6
-| Class 21: <br> Wed 09-30 
+| Class 21: <br> Wed 09-30 | 14.7 Second-order partial derivatives | 14.7: 1-11 odd, 41, 43 
 | Class 20: <br> Mon 09-28 | Finish 14.6 | ↓
 | Class 19: <br> Fri 09-25 | Finish 14.5, part 2 <br> 14.6 The chain rule | 14.5: 1-47 odd <br> 14.6: 1-15 odd
 | Class 18: <br> Thu 09-24 | ↓ | ↓ | Quiz 5 on Secs. 14.2, 14.3, and 14.4 (part 1)
