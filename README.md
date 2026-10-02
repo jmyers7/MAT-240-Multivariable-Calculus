@@ -12,6 +12,7 @@
 
 Class Number/Date | Topics | Suggested problems | Other information
 | :-: | :- | :- | :- |
+| Class 23: <br> Fri 10-02 | 15.1 Optimization, part 1 | 15.1: 1-21 odd, 25-31 odd
 | Class 22: <br> Thu 10-01 | | | Exam 1 on Secs. 12.1 to 14.6
 | Class 21: <br> Wed 09-30 | 14.7 Second-order partial derivatives | 14.7: 1-11 odd, 41, 43 
 | Class 20: <br> Mon 09-28 | Finish 14.6 | ↓
