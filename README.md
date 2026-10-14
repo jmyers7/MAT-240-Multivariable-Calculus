@@ -12,6 +12,8 @@
 
 Class Number/Date | Topics | Suggested problems | Other information
 | :-: | :- | :- | :- |
+| Class 28: <br> Thu 10-15 | | | Quiz 8 on Secs. 15.1, 15.2, and 15.3
+| Class 27: <br> Wed 10-14 | 16.1: Integrals of functions of two variables | 16.1: 1-5 odd, 13, 15
 | Class 26: <br> Mon 10-12 | Finish 15.3 | 15.3: 1-17 odd
 | Class 25: <br> Wed 10-07 | 15.2 Optimization, part 2 <br> 15.3 Lagrange multipliers | 15.3: 1-17 odd
 | Class 24: <br> Mon 10-05 | ↓ | ↓
