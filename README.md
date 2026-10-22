@@ -12,7 +12,7 @@
 
 Class Number/Date | Topics | Suggested problems | Other information
 | :-: | :- | :- | :- |
-| Class 32: <br> Thu 10-22 | | | Quiz 9 on Secs. 16.1 and 16.2
+| Class 32: <br> Thu 10-22 | Finish 16.3, part 2 <br> 8.3 Polar coordinates | 16.3: 1-51 odd <br> 8.3: 1-19 odd | Quiz 9 on Secs. 16.1 and 16.2
 | Class 31: <br> Wed 10-21 | Finish 16.3, part 1 <br> 16.3 Triple integrals, part 2 | 16.3: 1-51 odd
 | Class 30: <br> Mon 10-19 | Finish 16.2 <br> 16.3: Triple integrals, part 1 | 16.2: 1-51 odd <br> 16.3: 1-51 odd
 | Class 29: <br> Fri 10-16 | 16.2: Iterated integrals | 16.2: 1-51 odd  
