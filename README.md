@@ -12,7 +12,7 @@
 
 Class Number/Date | Topics | Suggested problems | Other information
 | :-: | :- | :- | :- |
-| Class 36: <br> Thu 10-29 | | | Quiz 10 on Secs. 16.3, 16.4
+| Class 36: <br> Thu 10-29 | 16.5: Integrals in cylindrical and spherical coordinates, part 1 | 16.5: 1-41 odd | Quiz 10 on Secs. 16.3, 16.4
 | Class 35: <br> Wed 10-28 | 16.4: Double integrals in polar coordinates | 16.4: 1-21 odd
 | Class 34: <br> Mon 10-26 | Finish 8.3 <br> 16.4: Double integrals in polar coordinates | 8.3: 1-19 odd <br> 16.4: 1-21 odd
 | Class 33: <br> Fri 10-23 | Finish 16.3, part 2 <br> 8.3 Polar coordinates | 16.3: 1-51 odd <br> 8.3: 1-19 odd
