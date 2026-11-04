@@ -12,7 +12,9 @@
 
 Class Number/Date | Topics | Suggested problems | Other information
 | :-: | :- | :- | :- |
-| Class 38: <br> Mon 11-02 | Finish 16.5, part 2 | 16.5: 1-41 odd
+| Class 40: <br> Thu 11-05 | | | Quiz 11 on Sec. 16.5
+| Class 39: <br> Wed 11-04 | Finish 16.5 <br> 17.1: Parametrized curves | 16.5: 1-41 odd, 17.1: 1-49 odd 
+| Class 38: <br> Mon 11-02 | 16.5: Integrals in cylindrical and spherical coordinates, part 2 | 16.5: 1-41 odd
 | Class 37: <br> Fri 10-30 | 16.5: Integrals in cylindrical and spherical coordinates, part 2 | 16.5: 1-41 odd
 | Class 36: <br> Thu 10-29 | 16.5: Integrals in cylindrical and spherical coordinates, part 1 | 16.5: 1-41 odd | Quiz 10 on Secs. 16.3, 16.4
 | Class 35: <br> Wed 10-28 | 16.4: Double integrals in polar coordinates | 16.4: 1-21 odd
