@@ -12,7 +12,7 @@
 
 Class Number/Date | Topics | Suggested problems | Other information
 | :-: | :- | :- | :- |
-| Class 44: <br> Thu 11-12 | | | Exam 2
+| Class 44: <br> Thu 11-12 | | | Exam 2 on Secs. 14.6 to ???
 | Class 43: <br> Wed 11-11
 | Class 42: <br> Mon 11-09
 | Class 41: <br> Fri 11-06
