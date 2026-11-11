@@ -13,7 +13,7 @@
 Class Number/Date | Topics | Suggested problems | Other information
 | :-: | :- | :- | :- |
 | Class 44: <br> Thu 11-12 | | | Exam 2 on Secs. 14.7 to 17.2
-| Class 43: <br> Wed 11-11
+| Class 43: <br> Wed 11-11 | Review old quizzes
 | Class 42: <br> Mon 11-09 | Finish 17.2 <br> 17.3: Vector fields | 17.2: 1-11 odd, 23-29 odd <br> 17.3: 1-27 odd, 31, 33
 | Class 41: <br> Fri 11-06 | Finish 17.1 <br> 17.2: Motion, velocity, and acceleration | 17.1: 1-49 odd <br> 17.2: 1-11 odd, 23-29 odd
 | Class 40: <br> Thu 11-05 | 17.1: Parametrized curves | 17.1: 1-49 odd | Quiz 11 on Sec. 16.5
