@@ -12,6 +12,7 @@
 
 Class Number/Date | Topics | Suggested problems | Other information
 | :-: | :- | :- | :- |
+| Class 45: <br> Fri 11-13 | 17.3: Vector fields | 17.3: 1-27 odd, 31, 33
 | Class 44: <br> Thu 11-12 | | | Exam 2 on Secs. 14.7 to 17.2
 | Class 43: <br> Wed 11-11 | Review old quizzes
 | Class 42: <br> Mon 11-09 | Finish 17.2 <br> 17.3: Vector fields | 17.2: 1-11 odd, 23-29 odd <br> 17.3: 1-27 odd, 31, 33
